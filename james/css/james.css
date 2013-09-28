@@ -1,0 +1,112 @@
+*{margin: 0;padding: 0}
+a{text-decoration: none;}
+img{border:0px;}
+ul,li{list-style: none;}
+
+
+
+body{background-image: url("images/bg.jpg");}
+#outpage{width: 1000px;height: 1460px;display: block;float: left;margin: 0 0 0 170px;background-color: #000;}
+#topnav{width: 1000px;height: 45px;display: block;float: left;position: relative;}
+#jameslogo{width: 70px;height: 20px;display: block;float: left;margin: 12px 20px 0 10px;cursor: pointer;}
+.topnavwz1{width: 70px;height: 20px;display: block;float: left;margin: 15px 0 0 30px;}
+.topnavwz11{color: rgb(255, 255, 255);font-family: Helvetica,Arial,sans-serif;font-size: 12px;}
+.topnavwz11:hover{color: #ffcc00;}
+
+.topnavwz112{width: 90px;height: 20px;display: block;float: left;margin: 15px 10px 0 30px;}
+.topnavwz1123{color: rgb(255, 255, 255);font-family: Helvetica,Arial,sans-serif;font-size: 12px;}
+.topnavwz1123:hover{color: #ffcc00;}
+.wenbenk{width: 190px;height: 27px;display: block;float:left;margin: 10px 0 0 20px;border-radius: 3px;}
+#wenbenk1{width: 190px;height: 27px;display: block;float:left;border-radius: 3px;}
+.witup1{width: 55px;height: 25px;display: block;float: left;margin: 10px 0 0 6px;}
+.witup11{width: 25px;height: 25px;display: block;float: left;}
+.witup12{width: 26px;height: 25px;display: block;float: left;}
+.witup123{width: 26px;height: 12px;display: block;float: left;font-family: Helvetica,Arial,sans-serif;font-size: 10px;color: rgb(255, 255, 255);}
+.witup123:hover{color: #ffcc00;}
+
+#topnav2{width: 1000px;height: 130px;display: block;float: left;background-color: #000;position: absolute; left: 0; top: 45px;z-index: 1000;display:none;}
+#topnav21{width: 70px;height: 50px;display: block;float: left;margin: 0px 20px 0 10px;cursor: pointer;}
+.topnavwz101{width: 70px;height: 120px;display: block;float: left;margin: 0px 0 0 30px;}
+.topnavwz1011{width: 70px;height: 20px;display: block;float: left;color: rgb(102, 102, 102);font-size: 12px;font-family: Helvetica,Arial,sans-serif;}
+.topnavwz1011:hover{color: #ffcc00;}
+
+
+
+
+.topnavwz1122{width: 90px;height: 120px;display: block;float: left;margin: 0px 10px 0 30px;}
+.topnavwz11232{width: 70px;height: 20px;display: block;float: left;color:  rgb(102, 102, 102);font-family: Helvetica,Arial,sans-serif;font-size: 12px;}
+.topnavwz11232:hover{color: #ffcc00;}
+#topnav2tuoian{width: 300px;height: 100px;display: block;float: right;margin: 0 50px 0 0;}
+
+
+
+
+
+
+
+
+/*---------------------------------------------lm1---------------------------------------------------------*/
+#lm1{width: 1000px;height: 1410px;display: block;float: left;border:1px solid #000;}
+#lm1l{width: 650px;height: 1270px;display: block;float: left;border:1px solid #000;margin: 0 0 0 15px;}
+#lm1r{width: 300px;height: 1270px;display: block;float: left;border:1px solid #000;margin: 0 0 0 15px;}
+#lm1l1{width: 650px;height: 450px;display: block;float: left;cursor: pointer;background-image: url("images/LBJ-Black-Uni-644x457-shout.png");background-repeat: no-repeat;}
+.lm1l1t{width: 430px;height: 180px;display: block;float: left;margin: 140px 0 0 20px;font-size: 55px;color: rgb(255, 255, 255);font-family: 'BebasRegular';font-weight: bold;}
+
+.lm1l1b{width: 430px;height: 100px;display: block;float: left;margin: 20px 0 0 20px;font-size: 20px;color: rgb(255, 255, 255);font-family: sans-serif;}
+
+#lm1l2{width: 210px;height: 32px;display: block;float: right;background-image: url("images/arrow_grey_circle.png");background-repeat: no-repeat;
+background-position: 180px 0px;line-height: 32px;cursor: pointer;color: rgb(255,255,255);font-family: Helvetica,Arial,sans-serif;font-size: 14px;}
+#lm1l2:hover{color: #ffcc00;}
+
+#lm1l3{width: 648px;height: 747px;display: block;float: left;}
+.lm1l31{width: 322px;height: 747px;display: block;float: left;}
+.lm1l311{width: 158px;height: 80px;display: block;float: left;position: relative;border:1px solid #000;}
+.lm1l3111{width: 158px;height: 80px;display: block;float: left;background-color: #ffcc00;opacity: 0.5;position: absolute;z-index: 10;top:0px;left: 0; display: none;cursor: pointer;}
+.lm1l3111gt{width: 70px;height: 20px;display: block;float: right;color: #fff;margin: 55px 0 0 0;font-size: 14px;font-family: arial;font-weight: bold;}
+.lm1l3111gt1{width: 70px;height: 20px;display: block;float: right;color: #fff;margin: 130px 0 0 0;font-size: 14px;font-family: arial;font-weight: bold;}
+.lm1l3111gt2{width: 70px;height: 20px;display: block;float: right;color: #fff;margin: 130px 0 0 0;font-size: 14px;font-family: arial;font-weight: bold;}
+
+
+.lm1l312{width: 320px;height: 163px;display: block;float: left;}
+.lm1l3121{width: 158px;height: 163px;display: block;float: left;position: relative;border:1px solid #000; }
+
+.lm1l31211{width: 158px;height: 163px;display: block;float: left;background-color: #ffcc00;opacity: 0.5;position: absolute;z-index: 10;top:0px;left: 0; display: none;cursor: pointer;}
+
+.lm1l33{width: 319px;height: 170px;display: block;float: left;border:1px solid #000;position: relative;}
+.lm1l34{width: 158px;height: 250px;display: block;display:block;float: left;}
+
+
+
+.lm1l332{width: 319px;height: 170px;display: block;float: left;background-color: #ffcc00;opacity: 0.5;position: absolute;z-index: 10;top:0px;left: 0; display: none;cursor: pointer;}
+
+
+.lm1r1{width: 300px;height: 250px;display: block;float: left;border:1px solid #000;position: relative;}
+
+
+.lm1r11{width: 300px;height: 250px;display: block;float: left;background-color: #84090e;opacity: 0.7;position: absolute;z-index: 10;top:0px;left: 0; display: none;cursor: pointer;}
+
+
+.lm1l3111gt3{width: 70px;height: 20px;display: block;float: right;color: #fff;margin: 200px 0 0 0;font-size: 14px;font-family: arial;font-weight: bold;}
+
+.lm1r21{width: 300px;height: 30px;margin: 20px 0 8px 0;font-family:Arial;font-size: 30px;color: rgb(255, 255, 255);display: block;float: left;text-align: center;}
+.lm1r2{width: 300px;height: 250px;display: block;float: left;border:1px solid #000;background-color: #000;}
+.lm1r22{width: 300px;height: 12px;margin: 0px 0 8px 0;font-family:Arial;font-size: 12px;color: rgb(255, 255, 255);display: block;float: left;text-align: center;}
+.lm1r23{width: 140px;height: 160px;display: block;float: left; margin: 0 0 0 10px;}
+.lm1r24{width: 130px;height: 160px;display: block;float: left;margin: 0 0 0 10px;}
+.lm1r231{width: 90px;height: 15px;margin: 0px 0 10px 0px;font-family:Arial;font-size: 15px;color: rgb(255, 255, 255);display: block;float: left;}
+
+.lm1r232{width: 87px;height: 13px;margin: 0px 0 10px 0px;font-family:Helvetica;font-size: 11px;color: rgb(255, 255, 255);display: block;float: left;cursor: pointer;}
+
+.lm1r232:hover{color: #ffcc00;}
+
+
+
+.lm1r2311{width: 90px;height: 15px;margin: 0px 0 10px 0px;font-family:Arial;font-size: 15px;color: rgb(255, 255, 255);display: block;float: right;}
+
+.lm1r2321{width: 87px;height: 13px;margin: 0px 0 10px 0px;font-family:Helvetica;font-size: 11px;color: rgb(255, 255, 255);display: block;float: right;cursor: pointer;}
+
+.lm1r2321:hover{color: #ffcc00;}
+
+
+#lm1bo{width: 1000px;height: 206px;display: block;float: left;background-image: url("images/bottom.bmp");background-repeat: no-repeat;margin:  0 0 0 10px;}
+/*---------------------------------------------lm1---------------------------------------------------------*/
